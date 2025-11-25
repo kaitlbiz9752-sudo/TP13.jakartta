@@ -112,6 +112,7 @@ Ce TP permet de maîtriser :
 - La supervision via logs et health-check
 - Le déploiement continu
 
-Bonne continuation ! 🚀
+Bonne continuation ! 
+
 
 
